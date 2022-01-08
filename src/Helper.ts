@@ -10,6 +10,6 @@ export class Helper {
 
     element.innerHTML = 'Hello, how are you? I am written in --- typescript.';
 
-    return element
+    return element;
   }
 }
