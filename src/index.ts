@@ -1,5 +1,5 @@
-import { Helper } from "./Helper";
+import { Helper } from './Helper';
 
-import "./index.scss";
+import './index.scss';
 
 document.body.appendChild(new Helper().component());
